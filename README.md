@@ -104,5 +104,5 @@ AgriNova AI+ introduces a **paradigm-shifting, fully decentralized agricultural 
 
 1. **Download the project**
    ```bash
-   git clone https://github.com/yourusername/AgriNovaPlus.git
+   git clone https://github.com/aishwraya709/AgriNova.git
    cd AgriNovaPlus
